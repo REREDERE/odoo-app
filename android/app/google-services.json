@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464333054034",
+    "project_id": "school-abe04",
+    "storage_bucket": "school-abe04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464333054034:android:b69a84ad103d4e922c3f8b",
+        "android_client_info": {
+          "package_name": "com.example.odoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNEPIGri_deMOcf90iVsVJCx8FIcZVRD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
